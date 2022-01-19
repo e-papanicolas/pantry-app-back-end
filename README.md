@@ -1,3 +1,3 @@
-## Pantry App
+# Pantry Organizer App
 
-Ruby - Sinatra back-end for [this repo](https://github.com/e-papanicolas/pantry-organizer)
+built with Ruby and Sinatra [front-end here](https://github.com/e-papanicolas/pantry-organizer)
